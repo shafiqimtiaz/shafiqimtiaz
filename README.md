@@ -80,5 +80,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqimtiaz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 &copy; https://github.com/anuraghazra/github-readme-stats
 
-![](https://leetcard.jacoblin.cool/shafiq235?ext=heatmap)  
+![](https://leetcard.jacoblin.cool/shafiq235)  
 &copy; https://github.com/JacobLinCool/LeetCode-Stats-Card
