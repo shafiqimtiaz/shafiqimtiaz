@@ -75,10 +75,5 @@
                 src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
 </p>
 
-
-[![Shafiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiqimtiaz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqimtiaz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-&copy; https://github.com/anuraghazra/github-readme-stats
-
 ![](https://leetcard.jacoblin.cool/shafiq235)  
 &copy; https://github.com/JacobLinCool/LeetCode-Stats-Card
