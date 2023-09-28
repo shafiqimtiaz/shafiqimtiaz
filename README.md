@@ -6,7 +6,7 @@
 📫 How to reach me **shafiqimtiaz@gmail.com**
 
 📄 Know about my experiences @
-[Resume]([https://drive.google.com/file/d/1ivrVRgpSnnVvJQRpLuiV_I_McH3KQj6F/view?usp=share_link](https://drive.google.com/file/d/11y-zg6LF1tR_bjhYDGkyyLGi-YJc0JvE/view?usp=sharing))
+[Resume](https://drive.google.com/file/d/11y-zg6LF1tR_bjhYDGkyyLGi-YJc0JvE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
