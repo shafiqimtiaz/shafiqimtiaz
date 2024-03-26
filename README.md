@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafiq Imtiaz</h1>
-<h3 align="center">Aspiring Software Developer passionate about Web Development</h3>
+<h2 align="center">Full-Stack Software Developer</h2>
+<h4>My Stack </br>[ FrontEnd ] ReactJS, Typescript </br>[ BackEnd ] SprintBoot, Java</br>[ CI/CD ] Jenkins, Docker</h4>
 
 👨‍💻 All of my projects are available at [https://shafiqimtiaz.github.io/](https://shafiqimtiaz.github.io/)
 
