@@ -24,7 +24,7 @@ I am a Full-Stack Software Developer based in **Montreal**. Graduated from Conco
 [![RecycleVision](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=RecycleVision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/RecycleVision)
 [![Medical Appointment System](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=Medical-Appointment-System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/Medical-Appointment-System)
 [![https://github.com/shafiqimtiaz/GPS-Location-App](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=GPS-Location-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/GPS-Location-App)
-[![BirdHaus](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=birdhaus&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/birdhaus)
+[![GenAI4SE](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=GenAI4SE&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/GenAI4SE)
 
 [![All Repositories](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/shafiqimtiaz?tab=repositories)
 
