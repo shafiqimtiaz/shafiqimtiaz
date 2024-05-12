@@ -20,6 +20,14 @@ I am a Full-Stack Software Developer based in **Montreal**. Graduated from Conco
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB) | ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white) | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |
 | ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
+## Top Open Source
+[![RecycleVision](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=RecycleVision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/RecycleVision)
+[![Medical Appointment System](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=Medical-Appointment-System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/Medical-Appointment-System)
+[![https://github.com/shafiqimtiaz/GPS-Location-App](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=GPS-Location-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/GPS-Location-App)
+[![BirdHaus](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=birdhaus&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/birdhaus)
+
+[![All Repositories](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/shafiqimtiaz?tab=repositories)
+
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
@@ -105,13 +113,7 @@ I am a Full-Stack Software Developer based in **Montreal**. Graduated from Conco
 ### Hardware Programming
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)
 
-## Top Open Source
-[![RecycleVision](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=RecycleVision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/RecycleVision)
-[![Medical Appointment System](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=Medical-Appointment-System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/Medical-Appointment-System)
-[![https://github.com/shafiqimtiaz/GPS-Location-App](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=GPS-Location-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/GPS-Location-App)
-[![BirdHaus](https://github-readme-stats.vercel.app/api/pin/?username=shafiqimtiaz&repo=birdhaus&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shafiqimtiaz/birdhaus)
-
-[![All Repositories](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/shafiqimtiaz?tab=repositories)
+### Stats
 
 [![Shafiq's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiqimtiaz&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/shafiqimtiaz)
 [![Shafiq's Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=shafiqimtiaz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/shafiqimtiaz)
