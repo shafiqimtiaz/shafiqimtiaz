@@ -1,5 +1,4 @@
 [![Profile visitor](https://komarev.com/ghpvc/?username=shafiqimtiaz&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=shafiqimtiaz)
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 # Hi! 👋 I'm <a href="https://www.google.com/search?q=Shafiq+Imtiaz">[Shafiq Imtiaz](https://www.google.com/search?q=Shafiq+Imtiaz)
 I am a Full-Stack Software Developer based in **Montreal**. Graduated from Concordia University in MEng Software Engineering.
