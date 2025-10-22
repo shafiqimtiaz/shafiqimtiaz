@@ -10,7 +10,7 @@ I am a Full-Stack Software Developer based in **Montreal**. Graduated from Conco
 
 - 👨‍💻 You can find all of my projects [here](https://shafiqimtiaz.github.io/).
 - 📫 Reach out to me at **shafiqimtiaz@gmail.com**.
-- 📄 Learn about my experiences in my [Resume](https://drive.google.com/file/d/1YIF7iP1O8i8BJV0QKwxnHirCUOXmKYfw/view?usp=sharing).
+- 📄 Learn about my experiences in my [Resume](https://drive.google.com/file/d/1nxy84PG1Cyi_3aDRaPZ83lU5ePAOF9jY/view?usp=sharing).
 - 💬 Got any questions? Ask me [here](https://github.com/shafiqimtiaz/shafiqimtiaz/issues).
 
 ### Tech Stack
