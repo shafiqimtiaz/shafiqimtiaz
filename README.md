@@ -1,7 +1,7 @@
 [![Profile visitor](https://komarev.com/ghpvc/?username=shafiqimtiaz&label=Visitors&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=shafiqimtiaz)
 
 # Hi! 👋 I'm <a href="https://www.google.com/search?q=Shafiq+Imtiaz">[Shafiq Imtiaz](https://www.google.com/search?q=Shafiq+Imtiaz)
-I am a Full-Stack Software Developer based in **Montreal**. Graduated from Concordia University in MEng Software Engineering.
+I am working as a Software Developer in Flexspring, and I am based in **Ottawa**, Canada. Graduated from Concordia University in MEng Software Engineering.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafiqimtiaz) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shafiqimtiaz) 
