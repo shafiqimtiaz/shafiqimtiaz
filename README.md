@@ -67,13 +67,3 @@ Full-Stack Software Engineer &nbsp;·&nbsp; AWS Certified AI Practitioner &nbsp;
 
 [![AWS AI Practitioner](https://img.shields.io/badge/✓_AWS_Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Flexspring](https://img.shields.io/badge/✓_Flexspring_R%26D_Core_Practice-0A66C2?style=flat-square&logoColor=white)](https://flexspring.com)
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shafiqimtiaz.vercel.app) &nbsp;·&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafiqimtiaz) &nbsp;·&nbsp;
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shafiqimtiaz@gmail.com)
-
-</div>
