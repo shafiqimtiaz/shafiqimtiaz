@@ -1,17 +1,14 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  SHAFIQ IMTIAZ                                                   ║
-║  Full-Stack Software Engineer  ·  AWS Certified AI Practitioner  ║
-║  Ottawa, ON  ·  shafiqimtiaz@gmail.com                           ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+# Shafiq Imtiaz
+
+Full-Stack Software Engineer &nbsp;·&nbsp; AWS Certified AI Practitioner &nbsp;·&nbsp; Ottawa, ON
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shafiqimtiaz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafiqimtiaz)
 [![GitHub](https://img.shields.io/badge/⌥_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shafiqimtiaz)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shafiqimtiaz@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-BA7517?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/shafiqimtiaz/shafiqimtiaz.vercel.app/blob/master/public/docs/Shafiq-Imtiaz-Resume.pdf)
 
 </div>
 
@@ -44,24 +41,10 @@
 
 ### 🏆 &nbsp;Selected Achievements
 
-```
-┌─ AI Infrastructure ──────────────────────────────────────────────────┐
-│  Sole architect of flexspring-agent-core — reusable, spec-driven     │
-│  LLM agent construction across services (TypeScript + LiteLLM)       │
-└──────────────────────────────────────────────────────────────────────┘
-┌─ Microservice Ownership ─────────────────────────────────────────────┐
-│  Sole engineer on flexspring-file-manager: S3 + MongoDB + REST API   │
-│  + React UI — full production microservice, greenfield to deploy     │
-└──────────────────────────────────────────────────────────────────────┘
-┌─ Platform Modernisation ─────────────────────────────────────────────┐
-│  Spring Boot 2→3 migrations × 2 production services (Java 8→17);    │
-│  complete React front-end stack upgrade (React 18.3, Router v7, Vite)│
-└──────────────────────────────────────────────────────────────────────┘
-┌─ Production Incident Resolution ─────────────────────────────────────┐
-│  Diagnosed corrupted DB records blocking client integrations;        │
-│  authored idempotent correction scripts across PostgreSQL + MongoDB  │
-└──────────────────────────────────────────────────────────────────────┘
-```
+- **AI Infrastructure** — Sole architect of `flexspring-agent-core`, enabling reusable, spec-driven LLM agent construction across services (TypeScript + LiteLLM)
+- **Microservice Ownership** — Sole engineer on `flexspring-file-manager`: S3 + MongoDB + REST API + React UI — full production microservice from greenfield to deploy
+- **Platform Modernisation** — Spring Boot 2→3 migrations × 2 production services (Java 8→17); complete React front-end stack upgrade (React 18.3, React Router v7, Vite 7)
+- **Production Incident Resolution** — Diagnosed corrupted DB records blocking client integrations; authored idempotent correction scripts across PostgreSQL + MongoDB
 
 ---
 
