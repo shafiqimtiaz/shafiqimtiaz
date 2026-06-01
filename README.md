@@ -54,8 +54,8 @@ Senior Software Engineer &nbsp;·&nbsp; AWS Certified AI Practitioner &nbsp;·&n
 
 ### 🎓 &nbsp;Education & Certifications
 
-**MEng Software Engineering (Co-op)** · Concordia University, Montreal · `2022–2024`
-**BSc Electrical & Electronics Engineering** · Islamic University of Technology · `2015–2018`
+- **MEng Software Engineering (Co-op)** · Concordia University, Montreal · `2022–2024`
+- **BSc Electrical & Electronics Engineering** · Islamic University of Technology · `2015–2018`
 
 [![AWS AI Practitioner](https://img.shields.io/badge/✓_AWS_Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f33dbc99-4952-4c46-ab20-0e303d253724)
 
