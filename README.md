@@ -43,7 +43,7 @@ Senior Software and AI Engineer &nbsp;·&nbsp; AWS Certified AI Practitioner &nb
 
 | Project | Stack | |
 |---------|-------|--|
-| [fetch-markdown](https://github.com/shafiqimtiaz/fetch-markdown) | TypeScript · Chrome Extension · DOM | [Chrome Web Store](https://chromewebstore.google.com/detail/fetch-markdown) |
+| [fetch-markdown](https://github.com/shafiqimtiaz/fetch-markdown) | TypeScript · Chrome Extension · DOM | [Chrome Web Store](https://chromewebstore.google.com/detail/akijdplhjdijpcjkgkhhnlhhjopldoml) |
 | [nexus-ai](https://github.com/shafiqimtiaz/nexus-ai) | Next.js · TypeScript · AI Agents | [Live demo](https://nexus-ai-tool.vercel.app) |
 | [diet-workout-plan](https://github.com/shafiqimtiaz/diet-workout-plan) | React · Vite · Gemini AI | [Live demo](https://diet-workout-plan.vercel.app) |
 | [pokégent](https://github.com/shafiqimtiaz/pokegent) | TypeScript · Ink · Terminal UI | [npm](https://www.npmjs.com/package/pokegent) |
