@@ -3,11 +3,11 @@
 **Senior Software Engineer · AI Engineering · Full-Stack & Distributed Systems**
 AWS Certified AI Practitioner · Toronto, ON
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://shafiqimtiaz.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square\&logo=cloudflare\&logoColor=white)](https://portfolio.shafiqimtiaz.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/shafiqimtiaz)
 [![GitHub](https://img.shields.io/badge/⌥_GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/shafiqimtiaz)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:shafiqimtiaz@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-BA7517?style=flat-square\&logo=adobeacrobatreader\&logoColor=white)](https://github.com/shafiqimtiaz/shafiqimtiaz.vercel.app/blob/master/public/docs/Shafiq-Imtiaz-Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-BA7517?style=flat-square\&logo=adobeacrobatreader\&logoColor=white)](https://github.com/shafiqimtiaz/portfolio/blob/master/public/docs/Shafiq-Imtiaz-Resume.pdf)
 
 ### 👨‍💻 About
 
@@ -78,7 +78,6 @@ Built a multi-region, event-driven file synchronization platform as the sole eng
 | --------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------- |
 | **fetch-markdown**    | TypeScript · Chrome Extension · DOM | [Chrome Web Store](https://chromewebstore.google.com/detail/akijdplhjdijpcjkgkhhnlhhjopldoml) |
 | **nexus-ai**          | Next.js · TypeScript · AI Agents    | [Live Demo](https://nexus-ai-tool.vercel.app)                                                 |
-| **diet-workout-plan** | React · Vite · Gemini AI            | [Live Demo](https://diet-workout-plan.vercel.app)                                             |
 | **pokégent**          | TypeScript · Ink · Terminal UI      | [npm](https://www.npmjs.com/package/pokegent)                                                 |
 | **ctx-handoff**       | TypeScript · CLI · Deno Deploy      | [npm](https://www.npmjs.com/package/ctx-handoff)                                              |
 | **clean-bookmarks**   | TypeScript · Chrome MV3 · AI        | [Chrome Web Store](https://chromewebstore.google.com/detail/akjmeddnbohjephmppkmifnljehfhkpb) |
@@ -106,4 +105,4 @@ Islamic University of Technology · Bangladesh · `2015 – 2018`
 
 ### 🌐 More
 
-Portfolio: **[shafiqimtiaz.vercel.app](https://shafiqimtiaz.vercel.app)**
+Portfolio: **[portfolio.shafiqimtiaz.workers.dev](https://portfolio.shafiqimtiaz.workers.dev/)**
