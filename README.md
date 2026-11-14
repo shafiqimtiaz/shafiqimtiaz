@@ -3,7 +3,7 @@
 **Senior Software Engineer · AI Engineering · Full-Stack & Distributed Systems**
 AWS Certified AI Practitioner · Toronto, ON
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square\&logo=cloudflare\&logoColor=white)](https://portfolio.shafiqimtiaz.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square\&logo=cloudflare\&logoColor=white)](https://me.shafq.dev/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/shafiqimtiaz)
 [![GitHub](https://img.shields.io/badge/⌥_GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/shafiqimtiaz)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:shafiqimtiaz@gmail.com)
@@ -105,4 +105,4 @@ Islamic University of Technology · Bangladesh · `2015 – 2018`
 
 ### 🌐 More
 
-Portfolio: **[portfolio.shafiqimtiaz.workers.dev](https://portfolio.shafiqimtiaz.workers.dev/)**
+Portfolio: **[portfolio.shafiqimtiaz.workers.dev](https://me.shafq.dev/)**
